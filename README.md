@@ -1,2 +1,2 @@
-# pedeidodemissao
-quando uma pessao comenta que foi demitida
+#pedidodemissao
+quando uma pessoa pede demissao
